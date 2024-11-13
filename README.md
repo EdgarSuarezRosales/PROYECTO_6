@@ -1,3 +1,2 @@
-    **Página sencilla de Hola mundo**
-
-    El proyecto consta solo de la página de index.html
+# Página sencilla de Hola mundo
+El proyecto consta solo de la página de index.html
